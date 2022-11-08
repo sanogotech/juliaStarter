@@ -2,6 +2,7 @@
 
 - https://juliabyexample.helpmanual.io/
 - https://www.juliabloggers.com/getting-started-with-julia-lang/
+- https://www.datacamp.com/blog/the-rise-of-julia-is-it-worth-learning-in-2022
 
 ```
 Import Python's math module in Julia (Source)
