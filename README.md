@@ -1,4 +1,4 @@
-# juliabasics
+# juliabasics /  Juila = Python + R
 
 - https://juliabyexample.helpmanual.io/
 - https://www.juliabloggers.com/getting-started-with-julia-lang/
