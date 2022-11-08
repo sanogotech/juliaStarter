@@ -4,7 +4,8 @@
 - https://www.juliabloggers.com/getting-started-with-julia-lang/
 - https://www.datacamp.com/blog/the-rise-of-julia-is-it-worth-learning-in-2022
 - https://www.datacamp.com/cheat-sheet/julia-basics-cheat-sheet
-- https://docs.julialang.org/en/v1/
+- https://docs.julialang.org/en/v1
+- https://juliaacademy.com/courses
 
 ```
 Import Python's math module in Julia (Source)
